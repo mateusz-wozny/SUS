@@ -1,4 +1,4 @@
-from src.main import square
+from src.moje.main import square
 
 
 def test_square():

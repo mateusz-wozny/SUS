@@ -1,5 +1,1 @@
-Zmniejszyc zbior, poszukac innych funkcji straty, fastText sprobowac z wytrenowanych embbeddingów
-
-Projekt
-Zrobic tabelke zbierajaca datasety, klasyfikator, resampling, metryki, powtórzenia i wyniki
-Potem je uszczegółówić dla każdego modelu i metryki
+tox
